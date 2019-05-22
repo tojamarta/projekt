@@ -1,2 +1,2 @@
-# projekt
+# To jest tylko test
 Opis
