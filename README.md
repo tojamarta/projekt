@@ -1,2 +1,2 @@
 # To jest tylko test
-Opis
+Test pracy grupowej w projekcie.
